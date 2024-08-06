@@ -1,4 +1,4 @@
-# NewsHeadlines-Daily News Web App
+# Indian News - Daily News Web App
 
 ## Overview
 
