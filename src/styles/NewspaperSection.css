@@ -1,0 +1,30 @@
+/* src/styles/NewspaperSection.css */
+.newspaper-section {
+  margin: 20px 0;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.newspaper-section h2 {
+  margin-bottom: 15px;
+  font-size: 24px;
+  color: #333;
+  text-transform: capitalize;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+
+.newspaper-section .news-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.newspaper-section .news-item:last-child {
+  border-bottom: none;
+}

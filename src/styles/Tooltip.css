@@ -1,0 +1,10 @@
+/* src/styles/Tooltip.css */
+.tooltip {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.75);
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  width: 300px;
+  z-index: 1000;
+}
